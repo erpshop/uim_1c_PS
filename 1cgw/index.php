@@ -8,9 +8,9 @@ require_once 'OneC/Wsdl/Client.php';
 class OneCGateway {
 	
 	private $db_prefix      = 'ps_';
-	private $secure_id 		= '8c43ac60-05c0-4bd6-b508-d9bf2d8eba03';
-	private $secure_login 	= 'user';
-	private $secure_pswd 	= '12345';
+	private $secure_id 		= //'Идентификатор модуля обмена';
+	private $secure_login 	= //'Имя пользователя';
+	private $secure_pswd 	= //'пароль';
 	
 	private $db_host        = 'localhost';
 	private $db_user        = 'erpshop';
