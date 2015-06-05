@@ -16,7 +16,7 @@ class OneCGateway {
 	private $db_user        = //'db_user';
 	private $db_password    = //'db_password';
 	
-	private $db_name        = //'db_name ';
+	private $db_name        = //'db_name';
 
 	private $enable_logs   = 1;
 	
