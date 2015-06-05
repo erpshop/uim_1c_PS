@@ -7,16 +7,16 @@ require_once 'OneC/Wsdl/Client.php';
 
 class OneCGateway {
 	
-	private $db_prefix      = 'ps_';
+	private $db_prefix      = //'db_prefix';
 	private $secure_id 		= //'Идентификатор модуля обмена';
 	private $secure_login 	= //'Имя пользователя';
 	private $secure_pswd 	= //'пароль';
 	
-	private $db_host        = 'localhost';
-	private $db_user        = 'erpshop';
-	private $db_password    = '[etnf';
+	private $db_host        = //'localhost';
+	private $db_user        = //'db_user';
+	private $db_password    = //'db_password';
 	
-	private $db_name        = 'presta';
+	private $db_name        = //'db_name ';
 
 	private $enable_logs   = 1;
 	
