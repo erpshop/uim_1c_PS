@@ -1,6 +1,6 @@
 # Управление интернет-магазином 1С Prestashop
 
-PrestaShop v1.6.х https://github.com/PrestaShop/PrestaShop 
+Поддержка: PrestaShop v1.6.х https://github.com/PrestaShop/PrestaShop 
 
 **Данный модуль находится на стадии разработки - см. Develop branch**
 - [x] Категории (все параметры)
