@@ -16,8 +16,8 @@
 * 1C: SmallBusiness 1.4
 
 ## Contributing
-APIdoc
-Partnership
+* [API документация] (http://wiki.meteor-it.ru/index.php?title=API_%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0)
+* [Partnership] (http://uim.meteor-it.ru/partnership)
 
 ## License
 Product is under [New BSD License] (/license.md)
